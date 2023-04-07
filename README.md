@@ -24,7 +24,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-2.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="kubernets" alt="kubernets Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="intellij idea" alt="intellij idea Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;

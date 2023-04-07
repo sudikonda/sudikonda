@@ -20,12 +20,14 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
   <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" title="PHP" alt="PHP Logo" width="62"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" title="Jetbrains WebStorm" alt="WebStorm Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress Logo" width="57"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" alt="Figma Logo" width="85"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="kubernets" alt="kubernets Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="intellij idea" alt="intellij idea Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="redux" alt="redux Logo" width="55"/> &emsp;
 </p>

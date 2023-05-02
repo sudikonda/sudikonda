@@ -1,10 +1,11 @@
 ### Siva Sudikonda 👋
 ## Full Stack Developer specialized in building web applications with JavaScript and backend with Java technologies.
 
-As a software engineer I focus on building web applications with JavaScript/TypeScript technologies across the whole stack (React / Next.js, Node.js, Express & MongoDB) & Firebase.
+Hi there! I am a software engineer with expertise in building web applications using JavaScript/TypeScript technologies across the entire stack, including React, Next.js, Node.js, Express, MongoDB, and Firebase. 
 
-My main specialization is in React with TypeScript. For me, this is the go-to tool for developing high-quality frontend applications powered by a very strong ecosystem and community. 
+In addition to my frontend skills, I also have experience working with Java and the Spring framework for backend development. 
 
+My primary focus is on React with TypeScript, which I believe is the ideal tool for creating high-quality frontend applications with a powerful ecosystem and strong community support. I am passionate about developing clean, scalable, and maintainable code to provide the best possible user experience.
 
 ## Tech Stack & Tools
 
